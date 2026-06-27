@@ -64,7 +64,6 @@ This space documents my journey into offensive security — CTF write-ups, study
 | [tryhackme-writeups](./tryhackme-writeups) | CTF write-ups with methodology, tools and lessons learned |
  
 <br/>
----
  
 <div align="center">
 <br/><br/>
