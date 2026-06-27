@@ -31,7 +31,7 @@
 <p>
 Cybersecurity Analyst with hands-on experience in network security engineering,<br/>
 SOC/NOC operations, and post-incident forensics.<br/>
-Currently at <strong>Contego Security</strong>, working with enterprise clients across Brazil.
+Currently working with enterprise clients across <strong>Brazil</strong>strong>.
 </p>
 <p>
 This space documents my journey into offensive security —<br/>
