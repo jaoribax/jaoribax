@@ -69,7 +69,7 @@ Long-term goal: Red Team.
  
 | repo | description |
 |:---:|:---|
-| [tryhackme-writeups](./tryhackme-writeups) | CTF write-ups with methodology, tools and lessons learned |
+| [tryhackme-writeups](https://github.com/jaoribax/tryhackme-writeups) | CTF write-ups with methodology, tools and lessons learned |
  
 <br/>
 ---
