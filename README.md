@@ -58,24 +58,17 @@ This space documents my journey into offensive security — CTF write-ups, study
 <br/>
 
 ## Repositories
-
+ 
 | repo | description |
 |---|---|
 | [tryhackme-writeups](./tryhackme-writeups) | CTF write-ups with methodology, tools and lessons learned |
-
+ 
 <br/>
-
 ---
-
+ 
 <div align="center">
- 
- 
-<br/><br/>
-<img src="https://raw.githubusercontent.com/jaoribax/jaoribax/main/assets/thm-badge.png" alt="TryHackMe" width="50%" />
- 
 <br/><br/>
  
 *Open to remote opportunities — Network Security · SOC · Red Team*
  
 </div>
- 
