@@ -58,7 +58,6 @@ Long-term goal: Red Team.
  
 | status | track |
 |:---:|:---|
-| 🔄 | TryHackMe — Jr Pentester |
 | 📌 | eJPT |
 | 📌 | OSCP |
 | 📌 | CRTO |
