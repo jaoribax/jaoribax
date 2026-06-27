@@ -1,14 +1,11 @@
 <div align="center">
-
 <!-- ============================================================
      BANNER — substitua a URL abaixo pela imagem escolhida
      Tamanho ideal: 1280x400px ou similar (proporção ~3:1)
      ============================================================ -->
 <img src="./assets/banner.png" alt="banner" width="100%"/>
-
 <br/>
 <br/>
-
 # João Victor Ribas
 
 <p>Cybersecurity Analyst &nbsp;·&nbsp; Network Security Engineer &nbsp;·&nbsp; DFIR</p>
@@ -27,47 +24,59 @@
 
 <br/>
 
+---
+ 
 ## About
-
-Cybersecurity Analyst with hands-on experience in network security engineering, SOC/NOC operations, and post-incident forensics. Currently at **Contego Security**, working with enterprise clients across Brazil.
-
-This space documents my journey into offensive security — CTF write-ups, study notes, and tools built along the way. Long-term goal: Red Team.
-
+ 
+<p>
+Cybersecurity Analyst with hands-on experience in network security engineering,<br/>
+SOC/NOC operations, and post-incident forensics.<br/>
+Currently at <strong>Contego Security</strong>, working with enterprise clients across Brazil.
+</p>
+<p>
+This space documents my journey into offensive security —<br/>
+CTF write-ups, study notes, and tools built along the way.<br/>
+Long-term goal: Red Team.
+</p>
 <br/>
-
+---
+ 
 ## Expertise
-
+ 
 | | |
-|---|---|
-| **Firewall & Network** | Sophos XGS · Fortigate · IPSec site-to-site · VPN client-to-site · NGFW rule design |
-| **SOC / Monitoring** | Wazuh (SIEM) · Zabbix · log analysis · alert triage · escalation |
-| **Incident Response** | DFIR · root cause analysis · timeline reconstruction · post-mortem reporting |
-| **Endpoint** | Kaspersky EDR · Acronis · threat containment · business continuity |
+|:---:|:---|
+| **Firewall & Network** | Sophos XGS · Fortigate · IPSec · VPN · NGFW rule design |
+| **SOC / Monitoring** | Wazuh (SIEM) · Zabbix · log analysis · alert triage |
+| **Incident Response** | DFIR · root cause analysis · post-mortem reporting |
+| **Endpoint** | Kaspersky EDR · Acronis · threat containment |
 | **Offensive (in progress)** | Nmap · Wireshark · Metasploit · CTFs · TryHackMe Jr Pentester |
-
+ 
 <br/>
-
+---
+ 
 ## Learning Path
-
+ 
 | status | track |
-|---|---|
+|:---:|:---|
+| 🔄 | TryHackMe — Jr Pentester |
 | 📌 | eJPT |
 | 📌 | OSCP |
 | 📌 | CRTO |
-
+ 
 <br/>
-
+---
+ 
 ## Repositories
  
 | repo | description |
-|---|---|
+|:---:|:---|
 | [tryhackme-writeups](./tryhackme-writeups) | CTF write-ups with methodology, tools and lessons learned |
  
 <br/>
+---
  
-<div align="center">
-<br/><br/>
- 
+<br/>
 *Open to remote opportunities — Network Security · SOC · Red Team*
  
+<br/>
 </div>
