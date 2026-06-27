@@ -69,8 +69,7 @@ This space documents my journey into offensive security — CTF write-ups, study
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaoribax&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=c9a84c&icon_color=c9a84c&text_color=8B949E" />
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/jvrbx.png" alt="TryHackMe" style="max-width: 100%;" />
 <br/><br/>
 
 *Open to remote opportunities — Network Security · SOC · Red Team*
