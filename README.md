@@ -12,7 +12,7 @@
 
 <br/>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-jaoribax-1a1a2e?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jvrbx)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-jvrbx-1a1a2e?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jvrbx)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaovictorribas-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaoribas958)
 &nbsp;
