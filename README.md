@@ -6,7 +6,7 @@
 <img src="./assets/banner.png" alt="banner" width="100%"/>
 <br/>
 <br/>
-# João Victor Ribas
+João Victor Ribas
 
 <p>Cybersecurity Analyst &nbsp;·&nbsp; Network Security Engineer</p>
 
