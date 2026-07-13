@@ -8,7 +8,7 @@
 <br/>
 # João Victor Ribas
 
-<p>Cybersecurity Analyst &nbsp;·&nbsp; Network Security Engineer &nbsp;·&nbsp; DFIR</p>
+<p>Cybersecurity Analyst &nbsp;·&nbsp; Network Security Engineer</p>
 
 <br/>
 
