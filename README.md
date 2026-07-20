@@ -75,7 +75,7 @@ Long-term goal: Red Team.
 ---
  
 <br/>
-*Open to remote opportunities — Network Security · SOC · Red Team*
+*Open to remote opportunities — Network Security · Red Team*
  
 <br/>
 </div>
