@@ -1,9 +1,3 @@
-<div align="center">
-<!-- ============================================================
-     BANNER — substitua a URL abaixo pela imagem escolhida
-     Tamanho ideal: 1280x400px ou similar (proporção ~3:1)
-     ============================================================ -->
-<img src="./assets/banner.png" alt="banner" width="100%"/>
 <br/>
 <br/>
 João Victor Ribas
