@@ -29,7 +29,7 @@ SOC/NOC operations, and post-incident forensics.<br/>
 Currently working with enterprise clients across <strong>Brazil</strong>.
 </p>
 <p>
-This space documents my journey into offensive security —<br/>
+This space documents my journey into offensive security.<br/>
 CTF write-ups, study notes, and tools built along the way.<br/>
 Long-term goal: Red Team.
 </p>
